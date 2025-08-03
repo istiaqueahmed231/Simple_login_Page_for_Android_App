@@ -21,8 +21,12 @@ This login page is designed to be easily integrated into any Android application
 
 Here are some screenshots of the application:
 
-![Screenshot 1](Screenshot_1.jpg)
-![Screenshot 2](Screenshot_2.jpg)
-![Screenshot 3](Screenshot_3.jpg)
-![Screenshot 4](Screenshot_4.jpg)
-![Screenshot 5](Screenshot_5.jpg)
+<div align="center">
+  <img src="Screenshot_1.jpg" width="200"/>
+  <img src="Screenshot_2.jpg" width="200"/>
+  <img src="Screenshot_3.jpg" width="200"/>
+  <img src="Screenshot_4.jpg" width="200"/>
+  <img src="Screenshot_5.jpg" width="200"/>
+</div>
+
+
